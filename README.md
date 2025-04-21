@@ -1,6 +1,8 @@
 # 👩🏻‍💻 Filippe Faria
 
-Me chamo Filippe Faria, tenho 23 anos e sou natural do Goiás. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniFanap.
+Atualmente, atuo como Analista de TI, lidando diariamente com sistemas e tecnologias como SQL, Oracle, Winthor, ION Sistemas e o sistema de help desk TomTicket. Possuo experiência em análise de dados, integração de sistemas, automação de processos e suporte técnico.
+
+Além do trabalho no dia a dia, estou sempre buscando evoluir tecnicamente. Atualmente estou no 4° semestre da faculdade de Análise e Desenvolvimento de Sistemas, tenho aprofundado meus conhecimentos em JavaScript, TypeScript, banco de dados, Python e SQL.
 
 ---
 
