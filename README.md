@@ -44,4 +44,3 @@ Além do trabalho no dia a dia, estou sempre buscando evoluir tecnicamente. Atua
 
 <br/>
 <br/>
-
